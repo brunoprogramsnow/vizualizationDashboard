@@ -1,0 +1,43 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+  color: white;
+  text-align: center;
+}
+
+.navLinks {
+    float: right;
+}
+
+.background {
+    background-color: #EDEDED;
+}
+
+.backgroundContent {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+}
+
+.teal {
+    color: #0BACA6;
+}
+
+.mainH1 {
+    font-size: 40px;
+}
+.tealNav {
+    background-color: #0BACA6;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.panel {
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  }
+
